@@ -6,4 +6,4 @@ cd ../'''
 
 [This is where we work](http://www.devbootcamp.com)
 
-I am creating a merge conflict.
+[This is a screenshot of us working](screenshot.png "screenshot")
