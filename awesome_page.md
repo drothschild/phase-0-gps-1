@@ -6,4 +6,4 @@ cd ../'''
 
 small change number 2
 
-![Screenshot](screenshot.png)
+I am creating a merge conflict.
